@@ -1,8 +1,4 @@
-<Doctype.html>
-<html>
-<head>
-<title>welcom</title>
-</head>
+
 <h1 align="center">Hi 👋, I'm ARUN M</h1>
 <h3 align="center">A passionate developer from India</h3>
 
